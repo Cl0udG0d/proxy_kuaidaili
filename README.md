@@ -1,4 +1,4 @@
-# proxy_kuaidaili
+快代理爬取保存txt文件
 
 写的很简单的一个爬取快代理IP的python爬虫小脚本，最开始的愿望就是能够马上用即可，用在sqlmap里面，使用--proxy-file="ips.txt" 文件
 
