@@ -11,3 +11,5 @@ scrapy框架西刺代理爬取保存json
 不过还是把代码放在github上，有了更好防止ban掉的方法的时候再进行修改
 
 第一次修改之后使用scrapy框架优化，目前暂时是爬取第一页ip，xpath进行对代理网站进行解析，保存为json文件
+
+chechip 检测json文件里面的ip地址是否可用
